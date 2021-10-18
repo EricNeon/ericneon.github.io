@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中医典籍</title>
+    <link>https://example.com/</link>
+    <description>Recent content on 中医典籍</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于</title>
+      <link>https://example.com/posts/about/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/about/</guid>
+      <description>中国的典籍浩如烟海，弥散在各处，又因战乱、争斗多有散失，传抄多有笔误，理解或又偏差。 故整理一些文档，便于搜索、查询，尽量选用已经校订过的优秀作品。主要包括儒释道三教以及医学、方术相关的内容。</description>
+    </item>
+    
+  </channel>
+</rss>
